@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Cell
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1866272577
+    locked: 0
+  - name: 'Board '
+    uniqueID: 1354539911
+    locked: 0
+  - name: Cell
+    uniqueID: 2158741303
+    locked: 0
+  - name: Wall
+    uniqueID: 3571757231
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 1670728851
+    locked: 0
+  - name: Player
+    uniqueID: 464702275
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 4071155861
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 1329023073
+    locked: 0

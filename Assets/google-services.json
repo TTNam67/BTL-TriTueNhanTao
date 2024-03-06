@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13474655275",
+    "firebase_url": "https://game-1-36b94-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "game-1-36b94",
+    "storage_bucket": "game-1-36b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13474655275:android:a881bd6313f9cee0424e6e",
+        "android_client_info": {
+          "package_name": "com.game1.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13474655275-4s016bbevhovq4brd6v3bfhmr0ngb2t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0X8s7vcdh6_kc4uE_D1xyJU5GvsvK5J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13474655275-4s016bbevhovq4brd6v3bfhmr0ngb2t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
